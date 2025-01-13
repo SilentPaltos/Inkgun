@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "inkgun:item/flame_ink_sac.png",
+            "height": 16,
+            "ascent": 11,
+            "chars": ["1"]
+        }
+    ]
+}

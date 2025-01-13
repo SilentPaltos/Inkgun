@@ -1,0 +1,30 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "clock",
+                    "functions": [
+                        {
+                            "function": "set_components",
+                            "components": {
+                                "item_model": "inkgun:inkgun",
+                                "item_name": "{\"translate\":\"item.inkgun.inkgun\"}",
+                                "custom_data": { "inkgun": { "id": "inkgun" } },
+                                "max_stack_size": 1,
+                                "consumable": {
+                                    "animation": "bow",
+                                    "consume_seconds": 400000,
+                                    "has_consume_particles": false,
+                                    "sound": "minecraft:entity.squid.ambient"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

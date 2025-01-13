@@ -1,0 +1,20 @@
+{
+    "pack.inkgun.info": "\n%s %s\n\n%s\n%s\n",
+    "pack.inkgun.name": "Inkgun",
+    "pack.inkgun.description": "Для чернильного веселья",
+    "pack.inkgun.author": "Автор: %s",
+    "pack.inkgun.version": "Версия: %s",
+    "pack.inkgun.get_links": "Ссылки",
+    "pack.inkgun.links": "\n[%s] [%s]\n",
+    "pack.inkgun.link_github": "GitHub",
+    "pack.inkgun.link_modrinth": "Modrinth",
+
+    "item.inkgun.inkgun": "Очернитель",
+    "item.inkgun.glow_inkgun": "Светочернитель",
+    "item.inkgun.flame_inkgun": "Опламенитель",
+    "item.inkgun.flame_ink_sac": "Пламенный чернильный мешок",
+        
+    "death.attack.inkgun.flame_ink": "%1$s был испепелён пламенными чернилами",
+    "death.attack.inkgun.flame_ink.item": "%1$s испепелён пламенными чернилами из-за %2$s с помощью %3$s",
+    "death.attack.inkgun.flame_ink.player": "%1$s испепелён пламенными чернилами из-за %2$s"
+}

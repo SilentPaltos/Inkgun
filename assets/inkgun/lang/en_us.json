@@ -1,0 +1,22 @@
+{
+    "emoji.inkgun.flame_ink_sac": "1",
+
+    "pack.inkgun.info": "\n%s %s\n\n%s\n%s\n",
+    "pack.inkgun.name": "Inkgun",
+    "pack.inkgun.description": "For inkfun",
+    "pack.inkgun.author": "Author: %s",
+    "pack.inkgun.version": "Version: %s",
+    "pack.inkgun.get_links": "Get Links",
+    "pack.inkgun.links": "\n[%s] [%s]\n",
+    "pack.inkgun.link_github": "GitHub",
+    "pack.inkgun.link_modrinth": "Modrinth",
+
+    "item.inkgun.inkgun": "Inkgun",
+    "item.inkgun.glow_inkgun": "Glow Inkgun",
+    "item.inkgun.flame_inkgun": "Flame Inkgun",
+    "item.inkgun.flame_ink_sac": "Flame Ink Sac",
+
+    "death.attack.inkgun.flame_ink": "%1$s was roasted in flame ink",
+    "death.attack.inkgun.flame_ink.item": "%1$s was roasted in flame ink by %2$s using %3$s",
+    "death.attack.inkgun.flame_ink.player": "%1$s was roasted in flame ink by %2$s"
+}

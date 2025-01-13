@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "using_inkgun": {
+            "trigger": "using_item",
+            "conditions": {
+                "item": {
+                    "components": {
+                        "custom_data": { 
+                            "inkgun": { "id": "flame_inkgun" } 
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "inkgun:advancement/trigger/using_flame_inkgun"
+    }
+}

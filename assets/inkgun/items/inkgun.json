@@ -1,0 +1,33 @@
+{
+    "hand_animation_on_swap": true,
+    "model": {
+        "type": "condition",
+        "property": "using_item",
+        "on_true": {
+            "type": "composite",
+            "models": [
+                {
+                    "type": "model",
+                    "model": "inkgun:item/inkgun/head_shooting"
+                }
+            ]
+        },
+        "on_false": {
+            "type": "select",
+            "property": "display_context",
+            "cases": [
+                {
+                    "when": "head",
+                    "model": {
+                        "type": "model",
+                        "model": "inkgun:item/inkgun/head"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "model",
+                "model": "inkgun:item/inkgun/head"
+            }
+        }
+    }
+}

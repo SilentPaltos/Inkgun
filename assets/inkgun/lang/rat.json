@@ -1,0 +1,20 @@
+{
+    "pack.inkgun.info": "\n%s %s\n\n%s\n%s\n",
+    "pack.inkgun.name": "Чернильные пушки",
+    "pack.inkgun.description": "Для черневеселья",
+    "pack.inkgun.author": "Автор: %s",
+    "pack.inkgun.version": "Версия: %s",
+    "pack.inkgun.get_links": "Ссылки",
+    "pack.inkgun.links": "\n[%s] [%s]\n",
+    "pack.inkgun.link_github": "ГитХаб",
+    "pack.inkgun.link_modrinth": "Модринт",
+
+    "item.inkgun.inkgun": "Спрутопушка",
+    "item.inkgun.glow_inkgun": "Светоспрутопушка",
+    "item.inkgun.flame_inkgun": "Гастоспрутопушка",
+    "item.inkgun.flame_ink_sac": "Пламенный чернильный мешок",
+        
+    "death.attack.inkgun.flame_ink": "%1$s был испепелён огнечернилами",
+    "death.attack.inkgun.flame_ink.item": "%1$s испепелён огнечернилами из-за %2$s с помощью %3$s",
+    "death.attack.inkgun.flame_ink.player": "%1$s испепелён огнечернилами из-за %2$s"
+}

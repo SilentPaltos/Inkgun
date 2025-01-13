@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "inkgun:item/flame_ink_sac"
+    }
+}
