@@ -1,7 +1,6 @@
 Armagun? Inkgun!
 Now you can use Squids as your new weapon for... inkfun I guess
 
-# Changes
 ## Items
 ### Inkgun
 - Shoots ink that can:
